@@ -4,7 +4,8 @@
 Computer Science student at the Faculty of Electrical Engineering, Czech Technical University in Prague.
 
 I am focused on backend development, systems programming, and reliable software design.  
-My current interests include network programming, Linux, C, Java, Go, Python, Node.js, databases, and distributed systems.
+My current interests include network programming, Linux, C, Java, Go, Python, Node.js, databases,  
+and distributed systems.
 
 ## What I work on
 
@@ -22,4 +23,4 @@ Spring Boot · Docker · Databases · Distributed systems · Computer networks
 ## Current stack
 
 ```text
-C · Java · Go · Python · Node.js · Linux · Git · Makefile · SQL · Networking
+C · Java · Go · Python · Node.js · Linux · Git · SQL · Networking
