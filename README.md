@@ -37,7 +37,3 @@ Spring Boot · Docker · PostgreSQL · Computer Networks · Distributed Systems
 
 ---
 
-## 📫 Contact
-
-- GitHub: [@r0mantyshchenk0](https://github.com/r0mantyshchenk0)
-- LinkedIn: add later
