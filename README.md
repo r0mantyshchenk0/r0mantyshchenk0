@@ -1,26 +1,43 @@
+# 👋 Hi, I'm Roman Tyshchenko
 
-# Roman Tyshchenko
+Computer Science student at the Faculty of Electrical Engineering,  
+Czech Technical University in Prague.
 
-Computer Science student at the Faculty of Electrical Engineering, Czech Technical University in Prague.
+I focus on backend development, systems programming, and reliable software design.
 
-I am focused on backend development, systems programming, and reliable software design.  
-My current interests include network programming, Linux, C, Java, Go, Python, Node.js, databases,  
-and distributed systems.
+---
 
-## What I work on
+## 🌍 About Me
 
-- Backend services and APIs
-- Network programming in C
-- Java and object-oriented projects
-- Go backend development
-- Python automation and backend tooling
-- Node.js backend development
-- Linux tooling and Git workflows
+- 🎓 Computer Science student at CTU FEE in Prague
+- ⚙️ Interested in backend development, Linux, networking and distributed systems
+- 🧠 Learning Spring Boot, Docker, databases and system design
+- 🛠️ Building projects in C, Java, Go, Python and Node.js
 
-## Currently learning
-Spring Boot · Docker · Databases · Distributed systems · Computer networks
+---
 
-## Current stack
+## 🧰 Tech Stack
 
-```text
-C · Java · Go · Python · Node.js · Linux · Git · SQL · Networking
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Currently Learning
+
+Spring Boot · Docker · PostgreSQL · Computer Networks · Distributed Systems
+
+---
+
+## 📫 Contact
+
+- GitHub: [@r0mantyshchenk0](https://github.com/r0mantyshchenk0)
+- LinkedIn: add later
